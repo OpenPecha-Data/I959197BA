@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG6330
   title: བོད་ཀྱི་དེང་རབས་རྩོམ་རིག་ཞིབ་འཇུག
-  volume: ''
+  volume:
+    b2688738272a48bdaaf999c52a7f523f:
+      image_group_id: I1KG6336
+      title: Volume 1 of bod kyi deng rabs rtsom rig zhib 'jug
+      volume_number: 1
+      total_pages: 394
   author: ''
+ebook_metadata:
+  title: བོད་ཀྱི་དེང་རབས་རྩོམ་རིག་ཞིབ་འཇུག
+  author: ''
+  sku: P008115
+  cover: cover.jpg
+  layers:
+  - pagination
